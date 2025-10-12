@@ -4,6 +4,6 @@
 Number1=100
 Number2=200
 
-Sum=$(($Number1+$Number2))
+SUM=$(($Number1+$Number2))
 
-echo "Sum is " ${Sum}"
+echo "SUM is " ${SUM}"
