@@ -8,7 +8,7 @@ else
     echo "Given number $NUMBER is greater than or equal to 10"
 Fi
 
-# -lt (less then)
-# -gt (greater then)
-# -eq (equals to)
+# -lt less then
+# -gt greater then
+# -eq equals to
 # -ne not equals
