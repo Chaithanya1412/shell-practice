@@ -1,14 +1,14 @@
 #!/bin/bash
 
 #everything in shell is considered as string
-Number1=100
-Number2=200
-Name=Devops
+NUMBER1=100
+NUMBER2=200
+NAME=DevOps
 
-SUM=$(($Number1+$Number2+$Name))
+SUM=$(($NUMBER1+$NUMBER2+$NAME))
 
 echo "SUM is : ${SUM}"
 
-Leaders=("Modi "putin" "trump" "trudo")
+LEADERS=("Modi "putin" "trump" "trudo")
 
-echo "All leaders: ${Leaders[@]}"
+echo "All leaders: ${LEADERS[@]}"
