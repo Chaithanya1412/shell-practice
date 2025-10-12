@@ -11,4 +11,4 @@ Fi
 # -lt (less then)
 # -gt (greater then)
 # -eq (equals to)
-# -ne (not equals)
+# -ne not equals
