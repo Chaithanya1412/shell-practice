@@ -3,3 +3,6 @@
 echo "all variables passed to the script: $@"
 echo "all variables passed to the script: $*"
 echo "script name: $0"
+echo "current directory: $PWD"
+echo "WHO IS RUNNING THIS: $USER"
+echo "Home directory of user: $HOME"
