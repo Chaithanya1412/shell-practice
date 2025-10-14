@@ -19,7 +19,7 @@ fi
 dnf install mysql -y
 VALIDATE $? "MySQL"
 
-dnf install Nginx -y
+dnf install nginx -y
 VALIDATE $? "Nginx"
 
 dnf install mongodb-mongosh -y
