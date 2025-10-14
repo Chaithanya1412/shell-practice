@@ -20,6 +20,8 @@ else
 fi
 }
 
+dnf list installed mysql # checking  
+
 dnf install mysql -y
 VALIDATE $? "MySQL"
 
